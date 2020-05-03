@@ -10,6 +10,8 @@ Unlabeled issues might be considered dirty and uncategorized and might thus not 
 
 Use multiple labels to signify urgency, e.g `bug` & `urgent`,  `feature` & `soon`, or `question` & `later`.
 
+When working on an issue, name the branch according to the issue id. E.g. `issue14-bugfix-duplicate-data`, `issue8-feature-sorting-by-company-name`
+
 ## Treat the master branch with care
 
 No work in progress commits should be pushed on the master branch.
