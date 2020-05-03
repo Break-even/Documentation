@@ -26,4 +26,4 @@ Please check your git diff for any unnecessary changes
 
 Recommended is a version of [Semantic Versioning](https://semver.org/)
 
-Tags are useful for version handling. Update the version number and push with the tag e.g `1.5.2` on the *master* branch. Any commits after that tag are snapshots of the next minor version e.g. `1.6.0-SNAPSHOT`.
+Tags are useful for version handling. Update the version number and push with the tag e.g `1.5.2` on the *master* branch. Any commits after that tag are considered snapshots of the next minor version e.g. `1.6.0-SNAPSHOT`. If it only contains patches, then specify the next patch version instead on release e.g. `1.5.3`.
